@@ -9,3 +9,7 @@ Repository for Interface Design, Seher Bülbül, WiSe 2020/2021, OMB 5
 ## Task 1 - The Wallet Project – A try run through the full DT circle
 <a href= "https://github.com/SeherBuelbuel/IFD_WiSe20-21/tree/main/Aufgabe%201 "> The Wallet Project – A try run through the full DT circle</a>
 <br> Stand: 20.10.2020, 22.20Uhr
+
+## Task 2 - Prototyping Tool - Craft Plugin
+<a href= "<a href= "https://github.com/SeherBuelbuel/IFD_WiSe20-21/tree/main/Aufgabe%201 "> Prototyping Tool </a> "> Prototyping Tool </a>
+<br> Stand: 27.10.2020, 22.20Uhr
