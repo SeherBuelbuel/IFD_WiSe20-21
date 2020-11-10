@@ -19,8 +19,4 @@ Repository for Interface Design, Seher Bülbül, WiSe 2020/2021, OMB 5
 <a href= "<a href= "https://7552x9.axshare.com"> Prototyping  </a> ">
 
 
-## Task 4 -- VUI Konzept
-<a href= " https://github.com/SeherBuelbuel/IFD_WiSe20-21/tree/main/Aufgabe%204%20Dokumentation "> Dokumentation VUI  </a> 
 
-  <br> Stand: 10.11.2020, 17.00Uhr
-  
