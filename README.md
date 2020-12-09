@@ -35,3 +35,10 @@ Repository for Interface Design, Seher Bülbül, WiSe 2020/2021, OMB 5
 <a href= "https://seherbuelbuel.github.io//IFD_WiSe20-21/Aufgabe%205/Sprachassistent.html"> Vui Voice</a>
 
 <a href= "https://github.com/SeherBuelbuel/IFD_WiSe20-21/blob/main/Aufgabe%205/VIDEO-2020-12-02-16-35-27.mp4"> Screencast </a>
+
+
+
+
+## Task 6 -- Cardboard
+
+<a href= https://github.com/SeherBuelbuel/IFD_WiSe20-21/blob/main/Aufgabe%206/Cardboard_Final.pdf" > Cardboard Dokumentation </a>
