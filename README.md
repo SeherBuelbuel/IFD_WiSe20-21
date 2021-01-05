@@ -51,3 +51,7 @@ Repository for Interface Design, Seher Bülbül, WiSe 2020/2021, OMB 5
 
 ## Task 7.1 -- VR Video
 <a href= "https://drive.google.com/file/d/1r8jteZ30u856oUxeWdGfY3TimOluZWQN/view?usp=sharing"> Zum Video </a>
+
+## Task 8 -- VR Anwendung Prototype
+<a href= "https://app.draftxr.com/vr/0wBECc">Zur VR Anwendung </a>
+
