@@ -66,3 +66,6 @@ Repository for Interface Design, Seher Bülbül, WiSe 2020/2021, OMB 5
 
 ## Prüfungsabgabe -- Dokumentation VUI Weiterentwicklung
 <a href= "https://github.com/SeherBuelbuel/IFD_WiSe20-21/blob/main/Seher_Buelbuel_IFD%20Prüfung.pdf"> Dokumentation VUI Weiterentwicklung </a>
+
+## Prüfungsabgabe -- VUI Anwenung Weiterentwicklung
+<a href= "https://seherbuelbuel.github.io//IFD_WiSe20-21/Aufgabe%205/Sprachassistent.html"> VUI Anwendung Weiterentwicklung </a>
