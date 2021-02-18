@@ -64,6 +64,5 @@ Repository for Interface Design, Seher Bülbül, WiSe 2020/2021, OMB 5
 <a href= "https://app.draftxr.com/vr/0wBECc">Zur VR Anwendung </a>
 
 
-## Prüfungsabgabe -- VUI Prototype
-
-<a href= "https://github.com/SeherBuelbuel/IFD_WiSe20-21/tree/main/Prüfungsabgabe/Sprachassistent.html">Zur VUI Anwendung </a>
+## Prüfungsabgabe -- Dokumentation VUI Weiterentwicklung
+<a href= "https://github.com/SeherBuelbuel/IFD_WiSe20-21/blob/main/Seher_Buelbuel_IFD%20Prüfung.pdf"> Dokumentation VUI Weiterentwicklung </a>
