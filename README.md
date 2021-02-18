@@ -63,4 +63,7 @@ Repository for Interface Design, Seher Bülbül, WiSe 2020/2021, OMB 5
 ## Task 8 -- VR Anwendung Prototype
 <a href= "https://app.draftxr.com/vr/0wBECc">Zur VR Anwendung </a>
 
-*/
+
+## Prüfungsabgabe -- VUI Prototype
+
+<a href= "https://github.com/SeherBuelbuel/IFD_WiSe20-21/tree/main/Prüfungsabgabe/Sprachassistent.html">Zur VUI Anwendung </a>
